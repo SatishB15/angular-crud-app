@@ -14,6 +14,7 @@ yarn-error.log
 # IDEs and editors
 .vscode
 .angular
+.husky
 .idea/
 .project
 .classpath
